@@ -2,8 +2,8 @@
 
 > Enterprise AI contract review: RAG + multi-expert agents + legal lookup, with Streamlit demo and FastAPI + Vue production deployment.
 
-[![CI](https://github.com/falltwo/Contract-compliance-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/falltwo/Contract-compliance-agent/actions/workflows/ci.yml)
-[![License](https://img.shields.io/github/license/falltwo/Contract-compliance-agent)](LICENSE)
+[![CI](https://github.com/1Arix1/Contract-compliance-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/1Arix1/Contract-compliance-agent/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/1Arix1/Contract-compliance-agent)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.13%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![Vue](https://img.shields.io/badge/vue-3-42b883?logo=vue.js&logoColor=white)](https://vuejs.org/)
 
